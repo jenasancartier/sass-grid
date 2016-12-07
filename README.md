@@ -1,11 +1,11 @@
 # [Custom Sass Grid](https://jenasancartier.github.io/sass-grid/)
 ![project screenshot](/img/screenshot.png)
 
-__Version 1: December 6, 2016__
-## by [J'ena SanCartier](https://github.com/jenasancartier) & Laura Krause
+__Version 1: December 4, 2016__
+## by [J'ena SanCartier](https://github.com/jenasancartier) & Larry Tunseth
 
 ### Description
-A webpage that replicates a webpage from a Treehouse lesson and refactors the original CSS code into Sass.
+Practice with Sass: a custom, responsive grid created with Sass.
 
 ### Setup/Installation
 1. _Clone this repository at:_
@@ -19,7 +19,7 @@ A webpage that replicates a webpage from a Treehouse lesson and refactors the or
 For questions or comments, please email me at [jenasancartier@gmail.com](mailto:jenasancartier@gmail.com)
 
 ### Known Issues
-* No known bugs as of 12.6.2016
+* No known bugs as of 12.4.2016
 
 ### Technologies Used
 HTML, CSS, Sass
